@@ -1,6 +1,6 @@
 # About Us
 
-This Bot was made by MrFast#1000, Cody4687#0642, *ﾟ★｡☁𝘼𝙢𝙧𝙞𝙩☁｡★ﾟ*#0001
+This Bot was made by MrFast#1000, Cody4687#0642
 
 ## Commands
 
