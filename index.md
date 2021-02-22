@@ -6,14 +6,23 @@ This Bot was made by MrFast#1000, Cody4687#0642, *ﾟ★｡☁𝘼𝙢𝙧𝙞�
 
 Commands in-game :
 * $help - Brings you here.
-* $dupe - How to dupe 0b0t.org.
-* $namemc \<player> - give you a link to a players NameMc profile.
-* $coinflip - Flip a coin!
+* $discord - Royal Kits discord server!
 * $ping - Pong! Gives yours or someone else’s ping in ms format.
 * $tps - Gives server TPS.
-* $uuid - Gives yours or someone else’s UUID.
-* $kd \<player> - Check a players KDR
-* $kit \<name> - TPAs to you with a kit. WHITELISTED
+* $colors - List of all the colored prefix's for 0b0t.
+* $kd \<player> - Check a players KDR.
+* $sex \<player> - Sex a player!
+* $2bqueue - Queue times of the priority and normal queue on 2b2t.
+* $2bstats \<player> - Gives server TPS.
+* $fact - Random fact!
 * *more soon*
-## Changelog
-  
+
+EzKits Membership comamnds
+* $kit \<name> - TPAs to you with a kit. WHITELISTED
+* $kits - List of available kits that you can claim. WHITELISTED
+* $claimed \<name> - Check yours or someone else's claimed kits. WHITELISTED
+
+Developer commands
+* $kill - Kill the bot!
+* $whitelist \<player> - Temporarly add a player to whitelist.
+* $blacklist \<player> - Blacklist a player from using EzKits.
