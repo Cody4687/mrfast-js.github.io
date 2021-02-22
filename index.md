@@ -2,9 +2,9 @@
 
 This Bot was made by MrFast#1000, Cody4687#0642, *ﾟ★｡☁𝘼𝙢𝙧𝙞𝙩☁｡★ﾟ*#0001
 
-## What can it do?
+## Commands
 
-Commands in-game :
+General Commands:
 * $help - Brings you here.
 * $discord - Royal Kits discord server!
 * $ping - Pong! Gives yours or someone else’s ping in ms format.
@@ -15,14 +15,13 @@ Commands in-game :
 * $2bqueue - Queue times of the priority and normal queue on 2b2t.
 * $2bstats \<player> - Gives server TPS.
 * $fact - Random fact!
-* *more soon*
 
-EzKits Membership comamnds
+EzKits Membership commands:
 * $kit \<name> - TPAs to you with a kit. WHITELISTED
 * $kits - List of available kits that you can claim. WHITELISTED
 * $claimed \<name> - Check yours or someone else's claimed kits. WHITELISTED
 
-Developer commands
+Developer commands:
 * $kill - Kill the bot!
 * $whitelist \<player> - Temporarly add a player to whitelist.
 * $blacklist \<player> - Blacklist a player from using EzKits.
